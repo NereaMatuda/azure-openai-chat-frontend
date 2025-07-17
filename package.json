@@ -1,6 +1,6 @@
 {
   "name": "azure-openai-chat-frontend",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "The Chat App Protocol compliant user-interface building block, for your chat-gpt like RAG pattern applications built with Azure OpenAI and Azure AI Search.",
   "main": "src/index.ts",
   "scripts": {
